@@ -5,6 +5,7 @@ type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["ポエム","組織","開発者体験"]
 published: true
 published_at: "2023-09-05 19:00"
+publication_name: "lib_tech"
 ---
 
 ## はじめに
