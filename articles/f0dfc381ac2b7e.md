@@ -6,6 +6,7 @@ topics:
     - aws
     - コスト削減
 published: true
+publication_name: "lib_tech"
 ---
 
 ## はじめに
